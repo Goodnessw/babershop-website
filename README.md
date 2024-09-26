@@ -16,11 +16,10 @@
 <div>
 	<h3>Website Demo</h3>
   	<ul>
-		<li>https://www.youtube.com/watch?v=LodPUnaHMjU&ab_channel=IdrissJairi</li>
 		<li>Admin Login Page: http://localhost/BarbershopWebsite/barber-admin/</li>
 	</ul>
 	<p>
-		Username: jairiidriss
+		Username: Goodnessw
 		<br>
 		Password: 123456789
 	</p>
@@ -36,4 +35,4 @@
 		<li>Feel free to edit the missig parts or the existing parts</li>
 	</ol>
 </div>
-<p>Questions and Clarifications: If you have any questions feel free to contact me: https://www.facebook.com/jairiidriss/</p>
+<p>Questions and Clarifications: If you have any questions feel free to contact me</p>
